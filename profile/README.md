@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="border-radius:360px" height="150px" src="img/RevoScripts.png">
+    <img style="border-radius:360px" height="150px" src="profile/img/RevoScripts.png">
     <h1><b>Revo Scripts</b></h1>
 </div>
 
