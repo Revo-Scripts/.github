@@ -1,12 +1,13 @@
-## Hi there 👋
+<div align="center">
+    <img style="border-radius:360px" height="150px" src="img/RevoScripts.png">
+    <h1><b>Revo Scripts</b></h1>
+</div>
 
-<!--
+![Discord](https://img.shields.io/discord/853758617051594792?color=%233483eb&label=Discord&logo=%233483eb&logoColor=%233483eb)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div>
+    <h2 align="center"><b>About Us</b></h2>
+    <p>
+    -- Comming soon
+    </p>
+</div>
