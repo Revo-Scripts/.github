@@ -1,5 +1,5 @@
 <div align="center">
-    <kbd><img style="border-radius:360px" height="150px" src="img/RevoScripts.png"></kbd>
+    <kbd><img style="border-radius:360px" height="150px" src="profile/img/RevoScripts.png"></kbd>
     <h1><b>Revo Scripts</b></h1>
 </div>
 
